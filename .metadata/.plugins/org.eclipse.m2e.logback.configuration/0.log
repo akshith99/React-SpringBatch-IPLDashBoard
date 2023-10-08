@@ -1,0 +1,205 @@
+2023-10-06 09:06:48,614 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-06 09:07:20,471 [Worker-1: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-06 09:07:22,325 [Worker-1: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dalvkot:ipl-dashboard:0.0.1-SNAPSHOT @ C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\pom.xml.
+2023-10-06 09:07:23,726 [Worker-1: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/main/java
+2023-10-06 09:07:23,732 [Worker-1: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2023-10-06 09:07:23,738 [Worker-1: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2023-10-06 09:07:23,751 [Worker-1: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/test/java
+2023-10-06 09:07:24,880 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:07:24,901 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:07:24,906 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:07:25,343 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-batch/3.1.4/spring-boot-starter-batch-3.1.4-sources.jar
+2023-10-06 09:07:25,456 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-batch/3.1.4/spring-boot-starter-batch-3.1.4-sources.jar
+2023-10-06 09:07:25,465 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-batch:3.1.4
+2023-10-06 09:07:25,663 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/2.0.3/spring-retry-2.0.3-sources.jar
+2023-10-06 09:07:25,825 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/2.0.3/spring-retry-2.0.3-sources.jar
+2023-10-06 09:07:25,831 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.retry:spring-retry:2.0.3
+2023-10-06 09:07:26,037 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.11.4/micrometer-core-1.11.4-sources.jar
+2023-10-06 09:07:26,365 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.11.4/micrometer-core-1.11.4-sources.jar
+2023-10-06 09:07:26,372 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-core:1.11.4
+2023-10-06 09:07:26,574 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.7.2/hsqldb-2.7.2-sources.jar
+2023-10-06 09:07:27,006 [Worker-1: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2023-10-06 09:07:27,163 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:07:27,172 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.7.2/hsqldb-2.7.2-sources.jar
+2023-10-06 09:07:27,179 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:07:27,179 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hsqldb:hsqldb:2.7.2
+2023-10-06 09:07:27,204 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:07:27,382 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-test/5.0.3/spring-batch-test-5.0.3-sources.jar
+2023-10-06 09:07:27,479 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-test/5.0.3/spring-batch-test-5.0.3-sources.jar
+2023-10-06 09:07:27,484 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.batch:spring-batch-test:5.0.3
+2023-10-06 09:07:28,274 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:07:28,274 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:07:28,277 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:13:43,681 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:13:43,687 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:13:43,690 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:14:13,778 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:14:13,784 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:14:13,786 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:17:53,456 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:17:53,463 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:17:53,465 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:21:17,180 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.6; built: 2021-06-29T15:28:56.259Z; git: 37e7731b4b142a882d73974ff3bec78d621bd674; jvm 17.0.2+8
+2023-10-06 09:21:17,214 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-10-06 09:21:17,249 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@497ed87f{/help,null,AVAILABLE}
+2023-10-06 09:21:17,276 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@11297881{HTTP/1.1, (http/1.1)}{127.0.0.1:62879}
+2023-10-06 09:21:17,288 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@60b351b3{STARTING}[10.0.6,sto=0] @885006ms
+2023-10-06 09:22:26,439 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:22:26,458 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:22:26,461 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:28:40,959 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:28:40,968 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:28:40,972 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:31:55,358 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:31:55,366 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:31:55,371 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:32:15,336 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:32:15,347 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:32:15,349 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:37:10,283 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:37:10,290 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:37:10,293 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:37:19,579 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:37:19,582 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:37:19,583 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:38:54,232 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:38:54,238 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:38:54,240 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:40:12,475 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:40:12,483 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:40:12,485 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:45:47,226 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:45:47,235 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:45:47,240 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:52:47,190 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:52:47,199 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:52:47,205 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:53:20,147 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:53:20,174 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 09:53:20,176 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:54:25,211 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:54:25,216 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:54:25,219 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:54:58,422 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:54:58,427 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:54:58,430 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:59:26,261 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:59:26,271 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:59:26,274 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 09:59:41,169 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:59:41,177 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 09:59:41,179 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:00:23,821 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:00:23,828 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:00:23,830 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:01:14,570 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:01:14,577 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:01:14,581 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:02:28,459 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:02:28,464 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:02:28,466 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:04:15,150 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:04:15,160 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:04:15,164 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:09:05,528 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:09:05,531 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:09:05,532 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:10:21,831 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:10:21,835 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:10:21,836 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:10:27,482 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:10:27,486 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:10:27,487 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:13:32,905 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:13:32,909 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:13:32,910 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:15:13,020 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:15:13,042 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:15:13,043 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:16:19,495 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:16:19,498 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:16:19,500 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:17:30,787 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:17:30,790 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:17:30,792 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:18:12,986 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:18:12,988 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:18:12,989 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:18:40,997 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:18:41,001 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:18:41,003 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:20:05,878 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:20:05,883 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:20:05,885 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:20:31,588 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:20:31,592 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:20:31,593 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:24:24,109 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:24:24,112 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:24:24,114 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:25:44,780 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:25:44,784 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:25:44,786 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:27:55,071 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:27:55,075 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 10:27:55,076 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:29:22,498 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:29:22,503 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 10:29:22,505 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:38:02,782 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:38:02,791 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:38:02,792 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:39:21,955 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:39:21,965 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-10-06 10:39:21,967 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:43:35,361 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:43:35,365 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:43:35,367 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:43:57,739 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:43:57,742 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:43:57,743 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:44:11,226 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:44:11,235 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:44:11,236 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:45:44,794 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:45:44,799 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:45:44,801 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:47:24,137 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:47:24,165 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:47:24,167 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:49:07,422 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:49:07,426 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:49:07,427 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:51:16,609 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:51:16,611 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:51:16,613 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:52:08,761 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:52:08,764 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:52:08,766 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 10:59:32,491 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:59:32,496 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 10:59:32,498 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 11:00:57,922 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:00:57,927 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:00:57,928 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 11:01:33,745 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:01:33,748 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:01:33,750 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 11:03:35,834 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:03:35,837 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:03:35,838 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 11:06:58,810 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:06:58,815 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:06:58,817 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 11:08:05,973 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:08:05,977 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:08:05,978 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 11:09:56,469 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:09:56,472 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:09:56,474 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 11:10:37,779 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:10:37,781 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-10-06 11:10:37,783 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\UdemyWebDevBootcamp\ReactUdemy\react-ipl-dashboard\springboot-backend\src\test\resources
+2023-10-06 11:11:02,532 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@60b351b3{STOPPING}[10.0.6,sto=0]
+2023-10-06 11:11:02,536 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@11297881{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-10-06 11:11:02,544 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@497ed87f{/help,null,STOPPED}

@@ -1,0 +1,4 @@
+ogging.level.org.springframework=info
+
+# Log to the console
+logging.pattern.console=%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n

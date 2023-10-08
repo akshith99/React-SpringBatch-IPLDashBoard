@@ -1,0 +1,2 @@
+ogging.level.org.springframework=info
+spring.jpa.open-in-view=false
