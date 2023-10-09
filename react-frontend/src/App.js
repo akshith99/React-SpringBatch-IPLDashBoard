@@ -1,5 +1,5 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import './App.css';
+import './App.scss';
 import { TeamPage } from './pages/TeamPage';
 import RootComponent from './components/RootComponent';
 import { MatchPage } from './pages/MatchPage';
