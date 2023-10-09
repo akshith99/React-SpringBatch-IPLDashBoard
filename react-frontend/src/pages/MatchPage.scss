@@ -1,0 +1,38 @@
+.MatchPage {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-column-gap: 20px;
+
+    .year-selector {
+        justify-self: end;
+        padding: 20px;
+    }
+
+    .page-heading {
+        margin: 20px auto;
+    }
+}
+
+.no-data {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-column-gap: 20px;
+
+    .year-selector {
+        justify-self: end;
+        padding: 20px;
+    }
+
+    .page-heading {
+        margin: 20px auto;
+    }
+
+    .display-message {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 300px;
+        background-color: #4da375;
+        text-align: center;
+    }
+}
